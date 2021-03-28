@@ -14,4 +14,5 @@ The model below was trained with a batch size of 32. The link contains all check
 > [1] https://github.com/Ryan-Rudes/YTTTS \
 > [2] https://github.com/NVIDIA/tacotron2 \
 > [3] https://arxiv.org/abs/1712.05884 \
-> [4] https://www.kaggle.com/ryanrudes/johnoliver
+> [4] https://www.kaggle.com/ryanrudes/johnoliver \
+> [5] https://drive.google.com/drive/folders/1jj0Ktck3ZybpDzY1yzveODnh4qFSvsAl?usp=sharing
