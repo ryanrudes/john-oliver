@@ -5,10 +5,11 @@
 * The dataset went through various processing steps, such as labelling audio that was probably not John Oliver speaking. The cleaned dataset has been posted on [Kaggle](https://www.kaggle.com/ryanrudes/johnoliver)
 * Model was trained using [Tacotron 2](https://github.com/NVIDIA/tacotron2)
 
-## Model Download
+## Model Download + Kaggle Kernel
 The model below was trained with a batch size of 32. The link contains all checkpoints, up to step 205,000 as of March 28, 2021. As it continues to train, new checkpoints will be uploaded to this directory and the files will appear accordingly:
 
 * [Click here to download the model checkpoint](https://drive.google.com/drive/folders/1jj0Ktck3ZybpDzY1yzveODnh4qFSvsAl?usp=sharing)
+* [Click here to train it yourself on Kaggle](https://www.kaggle.com/ryanrudes/voice-cloning-with-tacotron-2)
 
 ## Links
 > [1] https://github.com/Ryan-Rudes/YTTTS \
