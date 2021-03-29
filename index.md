@@ -41,12 +41,14 @@
 <table>
   <thead>
     <tr>
+      <th>Text</th>
       <th>Real</th>
       <th>Fake</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>why not use the time to register to vote</td>
       <td><audio controls=""><source src="samples/comparisons/1/real.wav" type="audio/wav"></audio></td>
       <td><audio controls=""><source src="samples/comparisons/1/fake.wav" type="audio/wav"></audio></td>
     </tr>
