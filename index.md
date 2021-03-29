@@ -1,9 +1,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>
-      Synthesized Audio Samples
-    </title>
+    <title>Synthesized Audio Samples</title>
   </head>
 
   <body>
