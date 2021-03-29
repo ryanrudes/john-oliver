@@ -79,6 +79,9 @@
 The model below was trained with a batch size of 32. The link contains all checkpoints saved throughout training. As it continues to train, new checkpoints will be uploaded to this directory and the files will appear accordingly:
 
 * [Click here to download a model checkpoint](https://drive.google.com/drive/folders/1jj0Ktck3ZybpDzY1yzveODnh4qFSvsAl?usp=sharing)
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=1jj0Ktck3ZybpDzY1yzveODnh4qFSvsAl#grid" style="width:100%; height:600px; border:0;"></iframe>
+
 * [Click here to train it yourself on Kaggle](https://www.kaggle.com/ryanrudes/voice-cloning-with-tacotron-2)
 
 ## Links
