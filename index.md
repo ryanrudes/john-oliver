@@ -6,6 +6,9 @@
 > #### Scientists at the CERN laboratory say they have discovered a new particle.
 <audio controls=""><source src="samples/2.wav"></audio>
 
+> #### Donald Trump and I are great friends.
+<audio controls=""><source src="samples/3.wav"></audio>
+
 ## Procedure
 * Data was collected using my YouTube datascraper, [YTTTS](https://github.com/Ryan-Rudes/YTTTS)
 * The dataset went through various processing steps, such as labelling audio that was probably not John Oliver speaking. The cleaned dataset has been posted on [Kaggle](https://www.kaggle.com/ryanrudes/johnoliver)
