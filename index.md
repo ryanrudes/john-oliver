@@ -15,7 +15,7 @@
         <tr>
           <td>
             <audio controls="">
-              <source src="demos/gan_or_vae.wav">
+              <source src="samples/1.wav">
             </audio>
           </td>
         </tr>
