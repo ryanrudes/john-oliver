@@ -84,8 +84,6 @@ The model below was trained with a batch size of 32. The link contains all check
 
 * [Click here to train it yourself on Kaggle](https://www.kaggle.com/ryanrudes/voice-cloning-with-tacotron-2)
 
-<iframe src="https://www.kaggle.com/ryanrudes/voice-cloning-with-tacotron-2" style="width:100%; height:600px; border:0;"></iframe>
-
 ## Links
 > [1] https://github.com/Ryan-Rudes/YTTTS \
 > [2] https://github.com/NVIDIA/tacotron2 \
