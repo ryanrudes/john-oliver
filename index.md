@@ -36,6 +36,21 @@
 > #### Sally sells seashells by the seashore. The shells she sells are seashells I'm sure.
 <audio controls=""><source src="samples/12.wav"></audio>
 
+<table>
+  <thead>
+    <tr>
+      <th>Real</th>
+      <th>Fake</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><audio controls=""><source src="samples/comparisons/1/real.wav" type="audio/wav"></audio></td>
+      <td><audio controls=""><source src="samples/comparisons/1/fake.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Procedure
 * Data was collected using my YouTube datascraper, [YTTTS](https://github.com/Ryan-Rudes/YTTTS)
 * The dataset went through various processing steps, such as labelling audio that was probably not John Oliver speaking. The cleaned dataset has been posted on [Kaggle](https://www.kaggle.com/ryanrudes/johnoliver)
