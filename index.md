@@ -21,9 +21,11 @@
 > #### A nuclear weapon improvised from radioactive nuclear waste material and conventional explosives.
 <audio controls=""><source src="samples/7.wav"></audio>
 
-
 > #### Tina Fey's children are Alice Zenobia Richmond and Penelope Athena Richmond.
 <audio controls=""><source src="samples/8.wav"></audio>
+
+> #### Deny thy father and refuse thy name. (from Romeo and Juliet, spoken by Juliet)
+<audio controls=""><source src="samples/9.wav"></audio>
 
 ## Procedure
 * Data was collected using my YouTube datascraper, [YTTTS](https://github.com/Ryan-Rudes/YTTTS)
