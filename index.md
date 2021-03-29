@@ -18,6 +18,9 @@
 > #### Performance reviews are stressful, time-consuming, and often meaningless.
 <audio controls=""><source src="samples/6.wav"></audio>
 
+> #### A nuclear weapon improvised from radioactive nuclear waste material and conventional explosives.
+<audio controls=""><source src="samples/7.wav"></audio>
+
 ## Procedure
 * Data was collected using my YouTube datascraper, [YTTTS](https://github.com/Ryan-Rudes/YTTTS)
 * The dataset went through various processing steps, such as labelling audio that was probably not John Oliver speaking. The cleaned dataset has been posted on [Kaggle](https://www.kaggle.com/ryanrudes/johnoliver)
