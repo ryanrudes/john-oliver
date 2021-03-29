@@ -24,10 +24,10 @@
 > Tina Fey's children are Alice Zenobia Richmond and Penelope Athena Richmond.
 <audio controls=""><source src="samples/8.wav"></audio>
 
-> Deny thy father and refuse thy name. (from Romeo and Juliet, spoken by Juliet
+> Deny thy father and refuse thy name.
 <audio controls=""><source src="samples/9.wav"></audio>
 
-> Life is like a box of chocolates. You never know what you're gonna get. (from Forrest Gump
+> Life is like a box of chocolates. You never know what you're gonna get.
 <audio controls=""><source src="samples/10.wav"></audio>
 
 > Prepare to make a right in 500 feet
